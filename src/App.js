@@ -40,7 +40,7 @@ function App() {
       <div className="container my-3">
         <TextForm
           showAlert={showAlert}
-          heading="Enter The Text to Analyze Below:"
+          heading="Try TextUtils - Word Counter, Character Counter, Remove Extra spaces:"
           mode={Mode}
         />
         {/* <About/> */}
