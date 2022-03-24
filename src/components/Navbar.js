@@ -84,7 +84,7 @@ export default function Navbar(props) {
           <div className="d-flex">
             <div className="bg-dark rounded mx-2 my-1" onClick={() => {props.toggleMode("dark");}} style={{height:"30px", width: "30px", cursor: "pointer"}}></div>
           </div>
-          <form className="d-flex">
+          {/* <form className="d-flex">
             <input
               classNameName="form-control me-2"
               type="search"
@@ -94,7 +94,7 @@ export default function Navbar(props) {
             <button classNameName="btn btn-outline-success" type="submit">
               Search
             </button>
-          </form>
+          </form> */}
           {/* <div
             className={`form-check form-switch text-${
               props.mode === "light" ? "dark" : "light"
