@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# TextUtils
+## This App is a utility which can be used to manipulate your text in the way you want.
 # Overview: 👇🏻
 ![Screenshot (63)](https://user-images.githubusercontent.com/72430178/160179515-1f9f51d2-18bd-4331-8584-915600969bcb.png)
 # Convert to Uppercase with Darkmode: 👇🏻
